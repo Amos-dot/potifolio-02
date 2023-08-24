@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300px"
+   height="50px"
+   viewBox="0 0 300 50"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="desenho-1.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview136"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.43473625"
+     inkscape:cx="730.32787"
+     inkscape:cy="192.07048"
+     inkscape:window-width="1024"
+     inkscape:window-height="710"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs131">
+    <rect
+       x="1285.3318"
+       y="568.20003"
+       width="1384.7165"
+       height="337.63308"
+       id="rect47598" />
+    <rect
+       x="285.87216"
+       y="291.74983"
+       width="750.42371"
+       height="416.34916"
+       id="rect45712" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text45710"
+       style="line-height:1.25;font-family:sans-serif;font-size:40px;letter-spacing:0px;white-space:pre;shape-inside:url(#rect45712)" />
+    <text
+       xml:space="preserve"
+       id="text47596"
+       style="line-height:1.25;font-family:sans-serif;font-size:40px;letter-spacing:0px;white-space:pre;shape-inside:url(#rect47598)" />
+    <text
+       xml:space="preserve"
+       style="font-size:33.7388px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.843472"
+       x="16.680557"
+       y="36.366779"
+       id="text59210"
+       transform="scale(0.93163555,1.0733811)"><tspan
+         sodipodi:role="line"
+         id="tspan59208"
+         x="16.680557"
+         y="36.366779"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.7388px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.843472">Amós Henrique</tspan></text>
+  </g>
+</svg>

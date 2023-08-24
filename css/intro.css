@@ -1,0 +1,37 @@
+
+.intro-botoes {
+    grid-column: 2;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+  }
+
+.intro-curriculo,
+.intro-github,
+.intro-linkedin {
+  padding: 6px 16px;
+  border: 1px solid #4a2cc5;
+  border-radius: 6px;
+  transition: 0.3s;
+}
+.intro-curriculo:hover,
+.intro-github:hover,
+.intro-linkedin:hover {
+  color: white;
+  scale: 1.05;
+  box-shadow: 20px 15px 20px -20px #000000;
+}
+
+.intro-curriculo:hover {
+  background: linear-gradient(#684adf, #4a2cc5);
+}
+
+.intro-github:hover {
+  background: linear-gradient(#5b6571, #23272d);
+}
+
+.intro-linkedin:hover {
+  background: linear-gradient(#1b7cdd, #0a66c2);
+}
