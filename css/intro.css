@@ -1,3 +1,23 @@
+.intro {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    align-items: center
+}
+
+.intro::after {
+    grid-column: 1/-1;
+    justify-self: center;
+    display: block;
+    content: "";
+    width: 90%;
+    height: 2px;
+    margin-top: 40px;
+    background: #4a2cc5
+}
 
 .intro-botoes {
     grid-column: 2;
@@ -5,33 +25,34 @@
     flex-wrap: wrap;
     justify-content: flex-start;
     align-items: center;
-    gap: 20px;
-  }
+    gap: 20px
+}
 
 .intro-curriculo,
 .intro-github,
 .intro-linkedin {
-  padding: 6px 16px;
-  border: 1px solid #4a2cc5;
-  border-radius: 6px;
-  transition: 0.3s;
+    padding: 6px 16px;
+    border: 1px solid #4a2cc5;
+    border-radius: 6px;
+    transition: .3s
 }
+
 .intro-curriculo:hover,
 .intro-github:hover,
 .intro-linkedin:hover {
-  color: white;
-  scale: 1.05;
-  box-shadow: 20px 15px 20px -20px #000000;
+    color: #fff;
+    scale: 1.05;
+    box-shadow: 20px 15px 20px -20px #000
 }
 
 .intro-curriculo:hover {
-  background: linear-gradient(#684adf, #4a2cc5);
+    background: linear-gradient(#684adf, #4a2cc5)
 }
 
 .intro-github:hover {
-  background: linear-gradient(#5b6571, #23272d);
+    background: linear-gradient(#5b6571, #23272d)
 }
 
 .intro-linkedin:hover {
-  background: linear-gradient(#1b7cdd, #0a66c2);
+    background: linear-gradient(#1b7cdd, #0a66c2)
 }
